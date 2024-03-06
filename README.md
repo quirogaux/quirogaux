@@ -6,7 +6,7 @@
     <h1 style="text-align: left; font-size: 64px; font-weight: 400; border: none; margin: 0; color: #9B26B6">Olá, mundo!</h1>
     <p style="text-align: left;">É com grande entusiasmo que compartilho com vocês minha jornada em busca de soluções inovadoras que realmente façam a diferença no cotidiano das pessoas. Na Skeps, assumo com orgulho o papel de UX Writer, onde minha missão é aprimorar a comunicação entre clientes e empresas por meio dos chatbots e assistentes virtuais na plataforma Blip.</p>
     </div>
-    <img src="https://i.gifer.com/1kt1.gif" height="240">
+    <img src="https://i.gifer.com/1kt1.gif">
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -22,7 +22,7 @@
 </div>
 
 
-<div style="display: flex; flex-direction: column;justify-content: space-between;">
+<div style="display: flex; flex-direction: column;justify-content: center;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=quirogaux&theme=monokai&show_icons=false)](https://github.com/quirogaux)
 
